@@ -14,12 +14,12 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./examples/cnn-architecture-624x890.png "Model Visualization"
-[image2]: ./examples/center_2017_10_27_21_24_41_475.png "Driving in the center"
-[image3]: ./examples/center_2017_10_27_21_25_23_991.png "Recovery Image"
-[image4]: ./examples/center_2017_10_27_21_25_44_078.png "Recovery Image"
-[image5]: ./examples/center_2017_10_27_21_25_53_685.png "Recovery Image"
-[image6]: ./examples/center_2017_10_27_21_25_56_687.png "Normal Image"
-[image7]: ./examples/center_2017_10_27_21_25_56_687_flipped.png "Flipped Image"
+[image2]: ./examples/center_2017_10_27_21_24_41_475.jpg "Driving in the center"
+[image3]: ./examples/center_2017_10_27_21_25_23_991.jpg "Recovery Image"
+[image4]: ./examples/center_2017_10_27_21_25_44_078.jpg "Recovery Image"
+[image5]: ./examples/center_2017_10_27_21_25_53_685.jpg "Recovery Image"
+[image6]: ./examples/center_2017_10_27_21_25_56_687.jpg "Normal Image"
+[image7]: ./examples/center_2017_10_27_21_25_56_687_flipped.jpg "Flipped Image"
 [image8]: ./examples/loss.png "Loss Figure"
 
 ## Rubric Points
